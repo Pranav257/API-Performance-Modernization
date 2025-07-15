@@ -1,0 +1,5 @@
+- name: Run FastAPI tests
+  run: |
+    cd user-service
+    pip install -r requirements.txt
+    pytest tests/
