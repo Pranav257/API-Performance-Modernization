@@ -1,6 +1,14 @@
 # API-Performance-Modernization
 
 API Performance Modernization
+
+Features
+
+- RESTful microservices: Spring Boot Gateway + FastAPI LLM Services
+- RAG-based GenAI query endpoint with LangChain, OpenAI, and ChromaDB
+- Azure-like simulation of caching (Redis) and rate limiting
+- Observability with OpenTelemetry, Logstash, Kibana
+- CI/CD with GitHub Actions
 Tools Used
 
 Java: Spring Boot for API Gateway
